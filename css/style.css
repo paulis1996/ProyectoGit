@@ -1,3 +1,57 @@
 * {
-  background-color: #000000;
+  font-family: "Baloo Bhai", cursive;
+  margin: 10px;
+}
+body {
+  background-color: #4d4646;
+}
+h1 {
+  text-align: center;
+  color: wheat;
+}
+nav {
+  text-align: center;
+}
+a {
+  margin: 10%;
+  color: white;
+}
+video {
+  display: block;
+  margin: 20px auto;
+}
+iframe {
+  display: block;
+  margin: 20px auto;
+  width: 70%;
+  height: 600px;
+}
+img {
+  display: block;
+  margin: auto;
+  width: 300px;
+  height: auto;
+}
+table {
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  border: groove palevioletred 1px;
+}
+th {
+  background-color: aqua;
+  border: groove palevioletred 1px;
+}
+td {
+  background-color: antiquewhite;
+  border: groove palevioletred 1px;
+}
+input {
+  width: 500px;
+  margin: 20px auto;
+}
+button {
+  background-color: lightcoral;
+  font-size: 30px;
+  border-radius: 50%;
 }
